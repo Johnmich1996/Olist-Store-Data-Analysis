@@ -42,9 +42,9 @@ Throughout the project, we faced a few key challenges:
 * **Formulating Insights:** It was a challenge to turn raw data into meaningful business insights. We overcame this by taking an **iterative approach**, starting with simple observations and progressively refining our analysis to uncover deeper trends and patterns.
 
 ## Dashboards and Reports
-* <a href="https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Excel-Dashboard.jpg"> **Excel Dashboard**
-* <a href="https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Power%20Bi-Dashboard.jpg"> **Power BI Dashboard**
-* <a href="https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Tableau-Dashboard.jpg"> **Tableau Dashboard**
+* <a href="https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Excel-Dashboard~2.jpg"> **Excel Dashboard**
+* <a href="https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Power%20Bi-Dashboard~2.jpg"> **Power BI Dashboard**
+* <a href="https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Tableau-Dashboard~2.jpg"> **Tableau Dashboard**
 
 ## Dataset
 
