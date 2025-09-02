@@ -27,9 +27,9 @@ Based on our analysis, we focused on the following key performance indicators:
 
 ## Dashboards and Reports
 * <a href="https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Excel-Dashboard.jpg"> **Excel Dashboard**
-* **Power BI Dashboard:** [Insert Image Tag Here]
-* **Tableau Dashboard:** [Insert Image Tag Here]
+* <a href="https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Power%20Bi-Dashboard.jpg"> **Power BI Dashboard**
+* <a href="https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Tableau-Dashboard.jpg"> **Tableau Dashboard**
 
 ## Dataset
 
-* **Dataset Source:** [Link to your Google Drive folder containing the dataset]
+* <a href="https://drive.google.com/drive/folders/1Hcedp_fGmR3njO5W99fi8VNLrM1cecsI?usp=drive_link"> **Dataset Source**
