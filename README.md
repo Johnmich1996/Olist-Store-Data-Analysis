@@ -1,13 +1,13 @@
 # Olist Data Analysis Project
 
-This project involves an in-depth analysis of the Olist e-commerce dataset to derive key business insights and recommendations.
+This project provides a comprehensive data analysis of the Olist e-commerce public dataset. The analysis focuses on understanding key business metrics, customer behavior, and operational efficiency to provide actionable insights. This project showcases the complete data analysis lifecycle, from data manipulation to creating interactive dashboards.
 
 ## Tools Used
 
-* **Excel:** Data validation and initial cleanup.
-* **Power BI:** Interactive dashboards and data visualization.
-* **Tableau:** Creation of key performance indicators (KPIs) and visual reports.
-* **MySQL:** Data aggregation and querying for insights.
+* **Excel:** Data was cleaned and transformed using **Power Query** to prepare it for analysis.
+* **MySQL:** SQL queries were used to join multiple datasets and aggregate data for key insights.
+* **Power BI:** Data was cleaned and modeled using **Power Query** to establish connections between datasets, followed by the creation of interactive dashboards.
+* **Tableau:** Multiple datasets were joined to create visualizations and build a comprehensive dashboard.
 
 ## Project Objectives
 
@@ -26,10 +26,7 @@ Based on our analysis, we focused on the following key performance indicators:
 5.  **Relationship Between Shipping Days and Review Scores:** Connecting delivery speed to customer satisfaction.
 
 ## Dashboards and Reports
-
-(Here you can upload screenshots of the dashboards you've created.)
-
-* **Excel Dashboard:** https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Excel-Dashboard.jpg
+-<a href="https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Excel-Dashboard.jpg"> **Excel Dashboard**
 * **Power BI Dashboard:** [Insert Image Tag Here]
 * **Tableau Dashboard:** [Insert Image Tag Here]
 
