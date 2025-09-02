@@ -26,7 +26,7 @@ Based on our analysis, we focused on the following key performance indicators:
 5.  **Relationship Between Shipping Days and Review Scores:** Connecting delivery speed to customer satisfaction.
 
 ## Dashboards and Reports
--<a href="https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Excel-Dashboard.jpg"> **Excel Dashboard**
+*<a href="https://github.com/Johnmich1996/Olist-Store-Data-Analysis/blob/main/Excel-Dashboard.jpg"> **Excel Dashboard**
 * **Power BI Dashboard:** [Insert Image Tag Here]
 * **Tableau Dashboard:** [Insert Image Tag Here]
 
